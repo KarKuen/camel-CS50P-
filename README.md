@@ -1,2 +1,4 @@
-# camel-CS50P-
-Separating text with underscores
+# camel (CS50P)
+
+##### CS50P Week 2 Problem Set
+* Separating text with underscores
